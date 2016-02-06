@@ -1,0 +1,12 @@
+==Building sample application==
+
+ Dependencies: armadillo, yaml-cpp, Qt5, qmake(build), python(build)
+
+    * armadillo: C++ linear algebra library - http://arma.sourceforge.net/
+    * yaml-cpp:  C++ YAML parser - https://github.com/jbeder/yaml-cpp
+
+ Steps to build:
+
+    $ qmake
+    $ make
+    $ ./qt5-opengl11-test

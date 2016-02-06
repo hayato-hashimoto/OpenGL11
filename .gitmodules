@@ -1,0 +1,6 @@
+[submodule "deps/lodepng"]
+	path = deps/lodepng
+	url = https://github.com/lvandeve/lodepng.git
+[submodule "deps/glxw"]
+	path = deps/glxw
+	url = https://github.com/insanity/glxw.git

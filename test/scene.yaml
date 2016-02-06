@@ -1,0 +1,20 @@
+- helix:
+   r: 10.0
+   width: 1.0
+   angle: 6.283185307179586
+   helix_angle: 0.0
+   position: [0.0, 0.0, 0.0]
+
+- helix:
+   r: 3.0
+   width: 1.0
+   angle: 40.0
+   helix_angle: 0.4
+   position: [0.0, -20.0, 0.0]
+
+- helix:
+   r: 3.0
+   width: 1.0
+   angle: 40.0
+   helix_angle: 0.4
+   position: [0.0, -16.0, 0.0]
